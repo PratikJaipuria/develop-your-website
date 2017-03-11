@@ -8,12 +8,12 @@ app.use(bodyParser.urlencoded({ extended: false }));
 // configure a public directory to host static content
 app.use(express.static(__dirname + '/public'));
 
-require ("./test/app.js")(app);
+// require ("./test/app.js")(app);
 
-require("./mean-todo/app.js")(app);
+// require("./mean-todo/app.js")(app);
 
 require("./assignment/app.js")(app);
 
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 3006;
 
 app.listen(port);
