@@ -1,0 +1,100 @@
+input.form-control {
+
+    margin-bottom: 5px;
+
+}
+
+.divmargin{
+    margin-top: 5px;
+}
+
+.list-margin{
+    margin-top:10px;
+}
+
+a{
+    cursor: pointer;
+}
+body {
+    /*padding-top: 36px;*/
+
+    padding-top: 60px;
+    padding-bottom: 60px;
+    overflow-x: hidden;
+
+}
+
+.print-margin{
+    min-height: 800px;
+    border-right:1px solid #ccc; }
+
+.white-color {
+    color: white;
+    font-weight: bold;
+    text-decoration-color: white}
+
+.gly-ok-margin{
+margin-right: 18px;}
+
+
+.webdev-toolbar {
+    position: absolute;
+    right: 15px;
+    background-color: white;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    border-bottom-left-radius: 5px;
+    opacity: 0.7;
+}
+
+.bottom-user{
+    color :cornflowerblue;
+}
+
+/*.textarea {*/
+        /*height:550px;*/
+/*}*/
+
+/*.navbar-default {*/
+    /*background-color: black;*/
+/*}*/
+
+/*.navbar-default .navbar-brand {*/
+       /*color: white;*/
+/*}*/
+
+/*.navbar-default .navbar-text {*/
+    /*color: white;*/
+/*}*/
+
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-text {
+    color: white;
+}
+
+
+.button-spacing{
+    margin-top: 15px;
+}
+/*
+ * off canvas sidebar
+ * --------------------------------------------------
+ */
+/*.handle{*/
+    /**/
+/*}*/
+
+a.hover-decoration{
+    text-decoration: none;
+}
+
+/*h1 { font-size: 5.9vw; }*/
+
+.flowcontrol{
+    margin-bottom: 30px;
+    margin-right: 10px;
+}
